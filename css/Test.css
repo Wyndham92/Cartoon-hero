@@ -1,5 +1,5 @@
 	body{
-		background-color: black;
+		background-color: aqua;
 	}
 	h1{
 		color: pink;
@@ -16,11 +16,11 @@
 	}
 
 	h2{
-		font-size: 40px;
+		font-size: 50px;
 	}
 	h2{
-		font-size: 22px;
-		color: green;
+		font-size: 60px;
+		color: pink;
 	}
 
 	h2 span{
@@ -33,5 +33,6 @@
 		font-style: italic;
 	}
 	h3{
+		font-size: 50px;
 		background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red)
 	}
