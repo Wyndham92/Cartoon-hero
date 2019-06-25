@@ -32,3 +32,6 @@
 	span{
 		font-style: italic;
 	}
+	h3{
+		background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red)
+	}
